@@ -8,3 +8,4 @@ such as adding schedules.
 * [Express](http:https://expressjs.com/) - The web framework used
 * [Lodash](https://lodash.com/) - Create arrays of days
 * [w3schools](https://www.w3schools.com/howto/howto_css_calendar.asp) - Used to create a temporary view template for the calendar
+* [EJS](http://ejs.co/) - View template for JavaScript
